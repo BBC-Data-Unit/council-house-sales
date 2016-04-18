@@ -1,5 +1,7 @@
 # Council house sales 2014/15
 
+![Chart from article](https://github.com/BBC-Data-Unit/council-house-sales/blob/master/rightobuysaleschart.png)
+
 In November 2015 we reported on the number of council homes in England sold under the right to buy scheme more than doubling in two years.
 
 * [Read the article here](http://www.bbc.co.uk/news/uk-england-34798790)
